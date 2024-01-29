@@ -1,3 +1,7 @@
+body{
+    font-size: 25px;
+}
+
 header{
     height: 230px;
     background-image: url('img/pattern.png');
@@ -36,4 +40,12 @@ h1{
 
 #tim-conference{
     margin-top: 25px;
+}
+
+.description{
+    font-size: 16px;
+}
+
+.highlight{
+    background-color: yellow;
 }
