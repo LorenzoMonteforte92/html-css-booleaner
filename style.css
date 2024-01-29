@@ -49,3 +49,26 @@ h1{
 .highlight{
     background-color: yellow;
 }
+
+table{
+    width: 100%;
+    font-size: 18px;
+}
+
+thead{
+    color: white;
+    background-color: #1FAAE5;
+}
+
+th, td{
+    vertical-align: middle;
+    text-align: left;
+}
+
+.resize{
+    width: 25%;
+}
+
+.colored-row{
+    background-color: #B0E4F2;
+}
