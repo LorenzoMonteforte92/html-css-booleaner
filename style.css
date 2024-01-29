@@ -26,12 +26,16 @@ h1{
 
 #author{
     font-size: 25px;
-    /* color: #808080; */
 }
 
 #editor-name{
     color: #4EA0FF;
     font-size: 25px
+}
+
+#date{
+    font-size: 18px;
+
 }
 
 #tim-conference{
